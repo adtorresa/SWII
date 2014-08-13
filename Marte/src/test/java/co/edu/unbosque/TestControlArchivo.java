@@ -29,6 +29,8 @@ public class TestControlArchivo {
         fw.append("7 8");
         fw.append("\n0 0 N");
         fw.append("\nAAIAADDIA");
+        fw.append("\nAAIAADDIA");
+        fw.append("\nAAIAADDIA");
         fw.close();
         
     }
